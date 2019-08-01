@@ -26,10 +26,15 @@
 - Keep up (e.g twitter)
 
 ### Courses:
+#### ML:
 1. https://www.coursera.org/learn/machine-learning: You can find implementations of the exercises in Python, though the course uses MatLab.
 2. https://www.fast.ai/2018/09/26/ml-launch/ (Different Approach!)
-3. https://www.coursera.org/specializations/deep-learning
-4. Rajan Boss recommendation : https://developers.google.com/machine-learning/crash-course
+3. Rajan Boss recommendation : https://developers.google.com/machine-learning/crash-course
+### DL:
+4. https://www.coursera.org/specializations/deep-learning
+### Pytorch:
+5. https://www.youtube.com/watch?v=v5cngxo4mIg&list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
+6. pytorch.org
 
 ### Books:
 1. ** Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
